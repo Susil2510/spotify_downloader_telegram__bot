@@ -20,6 +20,6 @@ Get it from FFmpeg's official site (www.ffmpeg.org)
 <pre>pip install -r requirements.txt</pre>
 <h3>open @BotFather(t.me/BotFather) bot in telegram and create your new bot and add your token here in main.py and spotify.py
 </h3>
-<pre>token = 'token bot'</pre>
+<pre>token = '2009597378:AAHbH4QXMfLaK1D5_r213X-4eDYvwRH0vcg'</pre>
 
 <b>now run the Script ;)</b>
