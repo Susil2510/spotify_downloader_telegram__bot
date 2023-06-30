@@ -1,4 +1,6 @@
-eyeD3
+
+pythone
+yeD3
 lyricsgenius
 requests
 spotipy
